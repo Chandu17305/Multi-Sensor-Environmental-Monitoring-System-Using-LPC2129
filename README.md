@@ -1,0 +1,2 @@
+# Multi-Sensor-Environmental-Monitoring-System-Using-LPC2129
+An embedded environmental monitoring system using the LPC2129 ARM7 microcontroller to collect and monitor real-time environmental parameters such as temperature, humidity, air quality and gas levels.The system integrates multiple sensors to provide accurate data,detect environmental changes, and generate alerts for safer and healthier surroundings.
